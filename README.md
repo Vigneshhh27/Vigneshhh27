@@ -1,6 +1,6 @@
 👋 Hi, I’m Vignesh (@Vigneshhh27)!
 
-👀 Passionate about all things Electronics and Embedded Systems
+👀 Passionate about anything in Electronics and Embedded Systems
 
 🌱 Currently exploring embedded design, microcontrollers, and the magic of circuits
 
