@@ -1,6 +1,3 @@
-
-
-
 <table>
   <tr>
     <td>
@@ -70,6 +67,12 @@
 
 
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?size=22&color=E0E0E0&width=650&lines=Embedded+Systems+Enthusiast;IoT+%7C+Firmware+%7C+Electronics;Building+the+future+one+bit+at+a+time...&font=Roboto)](https://github.com/Vigneshhh27)
+
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="700">
+
+
+
+
 
 
 
