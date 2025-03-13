@@ -27,7 +27,7 @@
       <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="70">
     </td>
     <td style="vertical-align: middle; padding-left: 10px;">
-      <strong>🌱 Currently exploring embedded design, microcontrollers, and the magic of circuits</strong>
+      <strong>🌱 Currently exploring embedded design, microcontrollers, PCB design, and the magic of circuits</strong>
     </td>
   </tr>
 </table>
